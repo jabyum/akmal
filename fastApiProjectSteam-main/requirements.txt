@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+regex
+sqlalchemy
+pyjwt
+python-multipart
+psycopg2
+passlib
+jinja2
